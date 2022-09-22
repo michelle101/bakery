@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bakery/static/css/main.ea145398.css",
-    "main.js": "/bakery/static/js/main.54100d2f.js",
+    "main.js": "/bakery/static/js/main.76116cea.js",
     "static/media/header.jpg": "/bakery/static/media/header.77361fddef81a9812180.jpg",
     "static/media/BG_Breakfast.jpg": "/bakery/static/media/BG_Breakfast.b2486cf8d42c881f9a33.jpg",
     "static/media/BG_featured.jpg": "/bakery/static/media/BG_featured.33cc87ec5f6e28f6f996.jpg",
@@ -28,10 +28,10 @@
     "static/media/image2.jpg": "/bakery/static/media/image2.912466b04095f599cfae.jpg",
     "index.html": "/bakery/index.html",
     "main.ea145398.css.map": "/bakery/static/css/main.ea145398.css.map",
-    "main.54100d2f.js.map": "/bakery/static/js/main.54100d2f.js.map"
+    "main.76116cea.js.map": "/bakery/static/js/main.76116cea.js.map"
   },
   "entrypoints": [
     "static/css/main.ea145398.css",
-    "static/js/main.54100d2f.js"
+    "static/js/main.76116cea.js"
   ]
 }
